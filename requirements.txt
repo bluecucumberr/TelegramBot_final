@@ -1,0 +1,8 @@
+pyTelegramBotAPI == 4.5.1
+python-dotenv == 0.20.0
+prettytable == 3.3.0
+requests == 2.27.1
+beautifulsoup4 == 4.11.1
+google-api-python-client == 2.49.0
+google-auth-httplib2 == 0.1.0
+google-auth-oauthlib == 0.5.1

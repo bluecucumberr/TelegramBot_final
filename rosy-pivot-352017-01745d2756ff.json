@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosy-pivot-352017",
+  "private_key_id": "01745d2756ff6655b391f5c1271277e05f6005f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQvaNEreHB2ZDG\nTYy8Z9ieVWif3O/AzOyIeDQw1kT9TPKqqkc+AYboYpfzdqP0aqEyXhzVeLP8jvYY\nDrrQ1joU2ghR3f9YqP6f4uZ0hBqpy4m2eWq0wLDvPfak7yUhoGZBgt1WwrzuCzwg\n4bTwwUBeVGM8e4IIzMqJtqH7SgcmjOn8BYceYnL79nPZ+RzYSAMbwvGRbiiyEfM5\nG4HkwO4DaRWUh9Gw95MPrrUOf/1Bm7cyazb23ZNDQVuCOziSzShR1/VZvktYOm1B\nN/4DYbEG1oZgup5aKzkqK29pUwAdQ7rXTYsxCjbcMLdR+L1k7+U0V9XUNw0LtvO0\nEqsuFxCtAgMBAAECggEABcHv+plP4c3uIq90PfogonVj9mIyBr+1l9S2SSaP2UDB\nwhgCRmE6ZwyDznEA+AvnjavE4H/SJG7jtil/LlAfuAAvkeUtVt+1GOnkRhB4FSOK\naosSI2bb5S1wsSnw0er1BxePTVuqZGfQ7RiXVLtahX+PC9Wy8iqGkk0u+JnDyroJ\nirhda3AoHGhRmxTAxEJK1slbVph8nDTV69rSQUE1zHI6RaWkPt9p1nxW/Rb+tC5U\njIcKqSaZjVo8gBjncq1RzAi03bkrDkLva62dxB2ivWUlISxi4S+I87wO8cQXqb5N\n4QHNGJinVBAPGVHI+aEFaM3e+QQ3hfclDKKiIh00gQKBgQDpi6EUmpZfrmRSQtDC\nzsvppg7oerxBNYxc5BICXtb7cgPPBQUQPBndYn6vSczcOUEQb5EwPP+swd3f85Hd\nTWZaMXp/gdXOJkQwvD87VO6J+CAg6zxVN+UN+UP4C73FRE207GPXpqrGU0tWs+65\nnQp5cNVr/E93gP97KkJWQCMK4QKBgQDkz3qpZYDkcQ5sc0b2hj4mnoJPPnerb6pv\n8zb9UTaCN+N/glo4fDs4HzaEXLTbkTNRz1MtpN7KzVOMOJgktnJNuOlw96xVDl6b\ngZFQz3wMPWp2H/oNnr7nLPwL5s56RNUIO96wCcVeZoWq0b8akfCaebvA6GZl+rCf\ntBvAyNkrTQKBgQCoUWLRl6xi3ywcgV012ZbrGSxLbxG4qaA03ocAQFwOsph+Hm8M\nyVQW00LckILeAUGcV9w6+OuIFd0T59aruXnX7SsNNITkY33n5fRojYix1StKrl84\nR+WEka7j2Yp23whmKay3or4X27ZDkcCu87i115Vpk1mulkELAmT3Bph64QKBgQCN\nrXsCUPuSd/66YFbcZxssxpFhiAiJesdKMosmJ5dc4kZXudsrhqEUix8yrkS+gBYK\n3hle9euOH71P4eszMFVuksTZUkK/F/q0x3G3XAIvggfdxMcMj/MdKdmXdP787ooK\nYyfsUOCJJ2o071MpnJwiyqXbOQvOsX+UI+3bXYI7MQKBgGxeoMRTgz1dZE60RPVU\nG6Smpv3iMr9UG8REJ8ogLVI6JOEpOc1VPnxC+uzABvZMJeMYLS1SqR4jaDVIus0B\n1l7JpBbqXw/n4GNmymn6e8FzeSJByHAeMTa+/MiyPIN7DmtN16AvcSJeRXKQ4NIW\nHNu7/7wiboPOafrNjHLF7FSV\n-----END PRIVATE KEY-----\n",
+  "client_email": "accforcalendarbot@rosy-pivot-352017.iam.gserviceaccount.com",
+  "client_id": "104888280805331498139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accforcalendarbot%40rosy-pivot-352017.iam.gserviceaccount.com"
+}
